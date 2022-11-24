@@ -1,2 +1,3 @@
 Teste Git Branchs
 Exemplo de Correção Trocar o 1 por 2 aqui (2)
+Exemplo oq ocorre se colocar uma linha abaixo da que foi corrigida na Beta e Marge para Dev.
